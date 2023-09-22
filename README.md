@@ -2,6 +2,7 @@
 - 🎓 Currently I'm pursuing B. Tech with the specialisation of Cyber Security at Vellore Institute of Technology(VIT)
 - 👀 I’m interested in learning new things about Cyber Security.
 - ✨ I'm also interested in learning programming languages like Java and Python.
+- 💡 I have gained basic knowlege on Front end programming languages.
 - 🌱 I’m currently learning about how AI can be used for securing computer systems.
 - 👾 Hobbies: I love watching Series, K-Dramas and Anime. 
 
