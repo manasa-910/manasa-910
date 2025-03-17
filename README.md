@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 | [Number Recognition](https://github.com/manasa-910/Number-recognition) | Recognizes the number pattern | 
 | [Morse Code Translator](https://github.com/manasa-910/Morse-Code-Translator) | Decodes the morse code into English language and vice versa | 
 | [Word Guessing Game](https://github.com/manasa-910/Word-Guessing-Game) | A guessing game including python libraries and AI terminologies | 
+| [Firewall Log Analyser with Anomaly Detection](https://github.com/manasa-910/Firewall-Log-Analyzer-with-Anomaly-Detection) | Detects anomalies in firewall logs and alerts the user |
 
 
 ## ✨SKILLS:
